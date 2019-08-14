@@ -4,6 +4,7 @@
     <input type="file" name="file" /><br />
     <input type="submit" value="提交" />
    </form>-->
+   啦啦啦啦啦啦
    <input type="file" name="file" />
    <input type="button" value="提交" v-on:click="upload"/>
    

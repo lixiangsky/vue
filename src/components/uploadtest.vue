@@ -5,6 +5,7 @@
     <input type="submit" value="提交" />
    </form>-->
    		测试修改
+   		安定性三国杀
    <input type="file" name="file" />
    <input type="button" value="提交" v-on:click="upload"/>
    
